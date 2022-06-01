@@ -16,10 +16,9 @@
 * [Demo Website](#eyes-demo-website)
 * [Quem Somos?](#quem-somos)
 * [Que tecnologia usamos?](#quem-tecnologia-usamos)
-* [Features](#rocket-features)
-* [Found a bug? Missing a specific feature?](#bug-issues)
-* [Contributing](#tada-contributing)
-* [License](#closed_book-license)
+* [Projetos](#projetos)
+* [Contribuindo](#contribuindo)
+* [Licença](#licença)
 
 # Demo Website
 👉  Demo: https://aperturelabs.vercel.app/
@@ -40,8 +39,9 @@ Temos alguns projetos em nossas costas que fazem a diferença atualmente na comu
 # Contribuindo
 Como fazer parte da Aperture Laboratories? É simples, através do [nosso Discord](https://discord.com/invite/nyTRNSV) você estará por dentro de várias novidades, eventos e coisas que com a sua participação, feedback e interação estará ajudando em muito a comunidade, seja para dar uma opinião, compartilhar um artigo, seja para conversar ou até mesmo ensinar alguém, ali você fará a diferença!
 
-# 📕 License
-Released in 2020
+# Licença
+Released in 2020, September.
 
 Made by [Anderson Marlon](https://github.com/Yagasaki7K).
+
 This project is under the [MIT license](./LICENSE).
